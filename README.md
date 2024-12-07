@@ -1,2 +1,3 @@
-# bookbot
-A real command-line application in Python that does static analysis on text files, or rather, entire novels like "Frankenstein"
+# BookBot
+
+For my first project at Boot.dev, I developed a command-line application in Python designed to perform static analysis on text files, including full-length novels such as Frankenstein.
